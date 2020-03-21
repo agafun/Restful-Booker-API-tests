@@ -71,4 +71,4 @@ For every response a test suite has been performed, for example:
 ## Test results
 All tests are passed.
 
-![](Restful-Booker API tests results.png)
+![](tests-results.png)
